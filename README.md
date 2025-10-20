@@ -1,4 +1,4 @@
-# Power_BI_Dashboard
+# EcomExpress_SalesAnalysis_Project
 
 Project Overview
 This Power BI project analyzes and visualizes Ecom Express sales data to deliver actionable insights into revenue, product performance, and business trends. The dashboard provides interactive visualizations for key business metrics and supports data-driven decision-making.
